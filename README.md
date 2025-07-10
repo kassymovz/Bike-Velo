@@ -1,2 +1,0 @@
-# Bike-Velo
-Sale Bikes
